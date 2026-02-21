@@ -38,24 +38,9 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="38"/>
 </p>
 
-### 📊 GitHub Stats
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=naqelah&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=fadadd&bg_color=0d1117&hide_border=true"
-        alt="GitHub Stats"
-      />
-    </td>
-    <td align="center" width="50%">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=naqelah&layout=compact&title_color=ff69b4&text_color=fadadd&bg_color=0d1117&hide_border=true"
-        alt="Top Languages"
-      />
-    </td>
-  </tr>
-</table>
-
+### 📈 GitHub Streak
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=naqelah&theme=tokyonight" alt="GitHub Streak Stats" />
+</p>
   ✨ Thanks for visiting my profile ✨
 </p>
